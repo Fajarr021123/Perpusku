@@ -5,7 +5,8 @@ A new Flutter project.
 
 #UI
 
-1684566692.png…]()
+<img width="763" alt="Screen Shot 2023-04-04 at 04 22 47" src="https://user-images.githubusercontent.com/96865504/Screenshot_1684566692.png">
+<img width="743" alt="Screen Shot 2023-04-04 at 04 23 34" src="https://user-images.githubusercontent.com/Screenshot_1684566700.png">
 
 
 ## Getting Started
