@@ -4,10 +4,16 @@ A new Flutter project.
 
 
 #UI
-![Deskripsi Gambar](https://github.com/Fajarr021123/Perpusku/blob/master/UI_awal.png),![Deskripsi Gambar](https://github.com/Fajarr021123/Perpusku/blob/master/UI_LOGIN.png),
+
+<img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_awal.png" alt="Deskripsi Gambar" width="300">
+
+<img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_LOGIN.png" alt="Deskripsi Gambar" width="300">
+
+<img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_HOME.png" alt="Deskripsi Gambar" width="300">
+
+<img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_DETAIL.png" alt="Deskripsi Gambar" width="300">
 
 
-![Deskripsi Gambar](https://github.com/Fajarr021123/Perpusku/blob/master/UI_HOME.png),![Deskripsi Gambar](https://github.com/Fajarr021123/Perpusku/blob/master/UI_DETAIL.png),
 
 
 ## Getting Started
