@@ -5,7 +5,7 @@ A new Flutter project.
 
 #UI
 
-<img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_awal.png" alt="Deskripsi Gambar" width="300"> <p> <img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_LOGIN.png" alt="Deskripsi Gambar" width="300">
+<img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_awal.png" alt="Deskripsi Gambar" width="300"> <hr> <img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_LOGIN.png" alt="Deskripsi Gambar" width="300">
 
 
 
