@@ -5,13 +5,13 @@ A new Flutter project.
 
 #UI
 
-<img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_awal.png" alt="Deskripsi Gambar" width="300">
+<img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_awal.png" alt="Deskripsi Gambar" width="300"><img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_LOGIN.png" alt="Deskripsi Gambar" width="300">
 
-<img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_LOGIN.png" alt="Deskripsi Gambar" width="300">
 
-<img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_HOME.png" alt="Deskripsi Gambar" width="300">
 
-<img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_DETAIL.png" alt="Deskripsi Gambar" width="300">
+<img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_HOME.png" alt="Deskripsi Gambar" width="300"><img src="https://github.com/Fajarr021123/Perpusku/blob/master/UI_DETAIL.png" alt="Deskripsi Gambar" width="300">
+
+
 
 
 
